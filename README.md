@@ -1,76 +1,69 @@
-# Thyra Scroggins  
-📍 Snow Hill, NC | ✉️ tyrascroggins@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-link-here) | 🌐 [Portfolio](https://www.yourportfolio.com)  
+
+![tyrascrogginsReadMe](https://github.com/user-attachments/assets/45f357ff-1946-4017-9c74-07213acd3925)
+# Tyra Scroggins  
+📍 Snow Hill, NC | ✉️ tyrascroggins@gmail.com |  
 
 ---
 
 ## 🚀 About Me  
-Hi there! I'm **Thyra(Tyra) Scroggins**, a versatile Full Stack Developer and Software Engineer in training with a creative background in **visual communications** and **graphic design**. With over a decade of experience in web development, digital marketing, and nonprofit operations, I specialize in crafting user-focused solutions that combine functionality with aesthetic appeal.  
+Hi, I’m Tyra Scroggins! With a unique blend of **technical expertise**, **creative design skills**, and **nonprofit management experience**, I excel at bridging the gap between functionality and aesthetics. Over the course of my career, I’ve honed skills in **software development**, **web design**, **event coordination**, and **team leadership**, making me a versatile and adaptable professional.  
 
-Currently, I’m enhancing my technical expertise through a **Software Engineering Bootcamp** with TripleTen, gaining hands-on experience in **JavaScript**, **CSS**, **HTML**, **GitHub**, and **modern frameworks**. I'm excited to bring my unique blend of technical and creative skills to impactful projects.
+Currently, I’m expanding my technical skill set through a **Software Engineering Bootcamp** with TripleTen, developing expertise in **Full Stack Development** and enhancing my ability to create innovative, user-focused digital solutions.  
 
 ---
 
 ## 💻 Technical Skills  
-- **Languages & Frameworks:** JavaScript, CSS, HTML, BEM Methodology  
-- **Web Development Tools:** VS Code, WordPress, SEO Optimization, E-Commerce  
-- **Design Tools:** Adobe Photoshop, Adobe Creative Suite, InDesign, Typography  
-- **Project & Business Tools:** Microsoft Office Suite, GitHub, Data Analysis  
+### Programming & Development  
+- **Languages & Tools:** JavaScript, CSS, HTML, BEM Methodology  
+- **Version Control:** GitHub  
+- **Web Development:** WordPress, E-Commerce Platforms, SEO Optimization, VS Code  
+
+### Design & Multimedia  
+- **Creative Tools:** Adobe Creative Suite (Photoshop, Illustrator, InDesign), Canva  
+- **Specializations:** Graphic Design, Typography, Layout Design, Photography  
+- **Content Creation:** Video Editing, Photo Editing, Social Media Graphics  
+
+### Project Management & Leadership  
+- **Event Coordination:** Scheduling, Budgeting, Volunteer Management, Fundraising  
+- **Technical Tools:** Microsoft Office Suite (Word, PowerPoint, Excel, Publisher)  
+- **Marketing Tools:** Constant Contact, MailChimp, Social Media Management  
 
 ---
 
-## 🎨 Creative & Management Experience  
-### **Director of Operations, CEO, Founder**  
-*Cause N Dog Rescue & Rehabilitation Center, Snow Hill, NC (2009 – 2023)*  
-- Managed business operations, hiring, training, and finances.  
-- Designed and developed the organization’s website and custom PDF forms.  
-- Oversaw community outreach, adoptions, and social media marketing.  
-- Ensured compliance with state and local regulations for animal welfare.  
-
-### **Technical Design & Software Skills**  
-*VCW (Remote, 2009 – 2016)*  
-- Designed advertising and marketing materials for print and web.  
-- Developed custom PDF forms using Acrobat Pro and LiveCycle.  
-- Worked on website templates, SEO strategies, and E-Commerce platforms.  
+## 🎨 Creative & Nonprofit Management Highlights  
+- **Nonprofit Leadership:** Directed operations at a 501(c)(3) nonprofit for 14+ years, managing fundraising events, volunteer programs, and community outreach initiatives.  
+- **Web & Graphic Design Expertise:** Designed and maintained websites, marketing materials, and digital campaigns tailored to organizational needs.  
+- **Event Management:** Planned and executed large-scale events with attention to detail, fostering engagement and positive community impact.  
 
 ---
 
-## 🏆 Awards & Recognition  
-- **North Carolina Governor’s Award for Volunteerism** *(2017)*  
-- Featured in several publications, including:  
-  - [Gov. Cooper Presents Medallion Awards for Volunteer Service](https://governor.nc.gov/news/gov-cooper-presents-medallion-awards-volunteer-service)  
-  - [Cause-N-Dog Rescue: Nonprofit Facility Hopes to Have Impact](https://www.reflector.com/news/local/cause-n-dog-rescue-nonprofit-facility-hopes-to-have-impact/article_24095c40-f43a-5e3a-b104-b2d01c7ebd27.html)  
+## 🏆 Awards & Achievements  
+- **North Carolina Governor’s Award for Volunteerism (2017):** Recognized for outstanding service and dedication to community improvement.  
+  - [Gov. Cooper Presents Medallion Awards for Volunteer Service](https://governor.nc.gov/news/gov-cooper-presents-medallion-awards-volunteer-service)
+  - [Cause-N-Dog Rescue: Nonprofit Facility YouTube](https://www.youtube.com/@CauseNDogRescue)  
 
 ---
 
 ## 🎓 Education  
 - **Certificate in Software Engineering** *(TripleTen, June 2024 – Present)*  
-- **Bachelor of Arts in Visual Communications & Web** *(Platt College, Ontario, CA – 2010)*  
-- **Certification in Multimedia** *(Platt College, Ontario, CA – 2009)*  
-- **Associate of Arts in Graphic Design** *(Platt College, Ontario, CA – 2007)*  
+- **Bachelor of Arts in Visual Communications & Web** *(Platt College, 2010)*  
+- **Certification in Multimedia** *(Platt College, 2009)*  
+- **Associate of Arts in Graphic Design** *(Platt College, 2007)*  
 
 ---
 
-## 🌟 Skills  
-- Adobe Photoshop & Creative Suite  
-- Web Development (HTML/CSS/JavaScript)  
-- SEO & Digital Marketing  
-- Leadership & Team Management  
-- Social Media Strategy  
+## 🌟 Strengths  
+- Creative problem solver who thrives at the intersection of **design** and **technology**.  
+- Skilled in leading and collaborating with diverse teams, from volunteers to developers.  
+- Adaptable and eager to learn, always seeking to expand my technical and creative toolset.  
 
 ---
 
-## 📫 Contact Me  
-Feel free to reach out via email, and let’s collaborate on creating something amazing!  
-✉️ tyrascroggins@gmail.com  
+## 📫 Let’s Connect  
+Feel free to reach out for collaborations, opportunities, or just to chat about exciting projects!  
+✉️ **Email:** tyrascroggins@gmail.com  
+💻 **GitHub:** [https://tyrascroggins.github.io/portfolio/]  
 
 ---
 
-## 📂 Portfolio & GitHub  
-Check out my work and projects:  
-- 🌐 **Portfolio Website:** [Insert Link Here]  still to come
-- 💻 **GitHub:** [Insert Link Here]  still to come
-
----
-
-### Let’s build something awesome together! 🚀  
+### Let’s build something amazing together!  

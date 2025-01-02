@@ -39,7 +39,7 @@ Currently, I’m expanding my technical skill set through a **Software Engineeri
 ## 🏆 Awards & Achievements  
 - **North Carolina Governor’s Award for Volunteerism (2017):** Recognized for outstanding service and dedication to community improvement.  
   - [Gov. Cooper Presents Medallion Awards for Volunteer Service](https://governor.nc.gov/news/gov-cooper-presents-medallion-awards-volunteer-service)
-  - **Social Media Presence including YouTube:**
+- ** Social Media Presence including YouTube
   - [Cause-N-Dog Rescue: Nonprofit Facility YouTube](https://www.youtube.com/@CauseNDogRescue)  
 
 ---
